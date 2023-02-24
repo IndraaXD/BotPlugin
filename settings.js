@@ -61,16 +61,16 @@ global.err4r = fs.readFileSync("./Maslent/pplent/maslent.jpg")
 global.thumb = fs.readFileSync("./Maslent/pplent/maslent.jpg")
     global.limitawal = {
     premium: "Infinity",
-    free: 100, // limit awall 
+    free: 1000, // limit awall 
     monayawal: 1000
 }
 global.limitAwal = {
  prem: 'Unlimited',
- free: 70
+ free: 700
 }
 global.limitawal = {
     rakyat: "Infinity",
-    free: 100
+    free: 1000
 }
 global.rpg = {
    darahawal: 100,
