@@ -11,29 +11,29 @@ global.doc6 = 'application/vnd.android.package-archive'
 //==============================\
 autoread = true
 ///Gantien dewe sak karepmu..,
-global.pulsa = "628xxx"
-global.gopay = "628xxx"
-global.dana = "628xxx"
-global.packname = 'Lenttobs'
-global.footer = '©Maslent'
-global.ovo = "628xxx"
-global.ownerlen = "Maslent/Lenttobs"//Ubah
-global.owner = ['628xxxxxxxxx'] //ubh nomor owner hp
-global.ownername = "Lenttobs" //ubah
-global.ytname = "YT: lenttobs"//ubah
-global.socialm = "IG: vlntncptr"//ubah
-global.location = "Indonesia, Jawatimur, Lumajang"//ubah
-global.ownernomer = "628xxxxxxx"//ubah nomorhp owner
-global.premium = ['6285xxxxxxx3']//ubah nomor hp premium
-global.nomorcs = '628xxxxxxx'
-global.botname = 'BotWhangsafV13' //ubah
-global.linkz = "Link Gc"//ubah
-global.websitex = "yt mu"//ubah
+global.pulsa = "62895700121662"
+global.gopay = "62895700121662"
+global.dana = "62895700121662"
+global.packname = '-'
+global.footer = '�-'
+global.ovo = "62895700121662"
+global.ownerlen = "-"//Ubah
+global.owner = ['6289570121662'] //ubh nomor owner hp
+global.ownername = "-" //ubah
+global.ytname = "Kontol"//ubah
+global.socialm = "IG: gndl.kemaki"//ubah
+global.location = "Indonesia, Jawatimur, Lamongan"//ubah
+global.ownernomer = "62895700121662"//ubah nomorhp owner
+global.premium = ['62895700121662']//ubah nomor hp premium
+global.nomorcs = '62895700121662'
+global.botname = '' //ubah
+global.linkz = "https://s.id/1ArYV"//ubah
+global.websitex = "https://s.id/1ArYV"//ubah
 global.botscript = '-'
-global.themeemoji = "😿"//ubah
-global.packname = "Sticker By"//ubah
-global.author = "Made by"//ubah
-global.wm = "Lenttobs"//ubah
+global.themeemoji = ""//ubah
+global.packname = "-"//ubah
+global.author = ""//ubah
+global.wm = "-"//ubah
 global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
@@ -61,7 +61,7 @@ global.err4r = fs.readFileSync("./Maslent/pplent/maslent.jpg")
 global.thumb = fs.readFileSync("./Maslent/pplent/maslent.jpg")
     global.limitawal = {
     premium: "Infinity",
-    free: 12, // limit awall 
+    free: 100, // limit awall 
     monayawal: 1000
 }
 global.limitAwal = {
